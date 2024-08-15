@@ -1,2 +1,4 @@
 # HollowCry
-This was one of my first games developed during my programming coursework in Unity. It allowed me to apply fundamental coding concepts, understand game mechanics, and explore the Unity engine, providing a solid foundation for my future projects in game development.
+This was one of my first games developed as part of my programming coursework in Unity. It was a valuable learning experience where I gained a deeper understanding of game mechanics, coding principles, and the Unity engine. Through this project, I was able to apply fundamental programming concepts and explore creative problem-solving techniques. It also provided me with a solid foundation for future game development projects.
+
+🎮 Developed by @cosmear and fellow students 👥 in the collaborative environment at UADE 🎓.
